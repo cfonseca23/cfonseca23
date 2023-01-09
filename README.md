@@ -36,7 +36,7 @@
 ### 📫 &nbsp; Cómo contactarme:
 
 
-<a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="www.linkedin.com/in/cristhianjfonseca/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 
 
 ![Cfonseca23's github stats](https://github-readme-stats.vercel.app/api?username=cfonseca23&show_icons=true&hide_border=true)
