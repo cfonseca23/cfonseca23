@@ -1,6 +1,3 @@
-![[BannerGIF]](https://user-images.githubusercontent.com/63558292/170726461-304fe0a3-4a49-4dff-9de2-bc448c5c71a2.gif)
-
-
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hola 👋🏽, Soy [Cfonseca23!](https://cfonseca23.github.io/Cristhian/) 
 
 ![version :20.08.2021](https://img.shields.io/badge/version-27.05.2022-informational) &nbsp;
